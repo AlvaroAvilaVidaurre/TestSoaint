@@ -40,6 +40,10 @@ Sigue estos pasos para configurar el proyecto desde cero:
 3. Instala los navegadores necesarios para Playwright:
   ``` npx playwright install ```
 
+4. Ejecuta el comando:
+   ```bash
+   npm run cucumber
+   
 ## Tecnologías utilizadas
 - Playwright: Framework para pruebas automatizadas en navegadores.
 - Cucumber: Herramienta para pruebas basadas en comportamiento (BDD).
