@@ -31,8 +31,8 @@ Sigue estos pasos para configurar el proyecto desde cero:
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/playwright-cucumber-test.git
-   cd playwright-cucumber-test
+   git clone https://github.com/AlvaroAvilaVidaurre/TestSoaint.git
+   cd TestSoaint
 
 2. Instala las dependencias del proyecto:
   ``` npm install ```
